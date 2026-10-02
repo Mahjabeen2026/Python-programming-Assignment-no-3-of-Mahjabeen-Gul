@@ -1,0 +1,2 @@
+[2026-10-01 12:35:44.056948] - ERROR: IndexError - list index out of range
+[2026-10-01 12:36:50.386284] - ERROR: IndexError - list index out of range

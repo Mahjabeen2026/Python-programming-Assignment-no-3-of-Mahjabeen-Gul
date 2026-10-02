@@ -1,0 +1,3 @@
+This is data file.
+Python File Handling Example.
+User: Maha, Age: 34, Course: Python programming, City: lahore
